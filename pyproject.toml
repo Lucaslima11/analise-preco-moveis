@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "scraping-moveis"
+version = "0.0.1"
+description = ""
+authors = ["Lucas Lima <lucaslima111@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.17.2"
+requests = "^2.31.0"
+pandas = "^2.2.0"
+pytest = "^8.0.0"
+webdriver-manager = "^4.0.1"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
