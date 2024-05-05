@@ -1,2 +1,1 @@
-# scraping-moveis
-"Scraping de dados de móveis de comércios online"
+# ETL e análise de dados de preços de móveis
